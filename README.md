@@ -1,7 +1,7 @@
 # DataModelling
- Dimensional model notes from Kimball reader group
+ Dimensional model notes from Kimball reader group (summary)
 
 Basic Data modeling steps can be summarized in the whiteboard image below
-Update test 1
+(Download the image for better resolution)
 
-![Data Modeling Steps]{images/Whiteboard.png}
+![Data Modeling Steps](images/DM1.png)
